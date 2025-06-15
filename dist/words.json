@@ -1,0 +1,24 @@
+[
+  "january", "february", "march", "april", "may", "june",
+  "july", "august", "september", "october", "november", "december",
+
+  "monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday",
+
+  "spring", "summer", "autumn", "fall", "winter",
+
+  "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
+  "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen",
+  "sixteen", "seventeen", "eighteen", "nineteen", "twenty",
+
+  "school", "teacher", "student", "class", "homework", "pencil", "paper", "notebook",
+  "book", "desk", "chair", "board", "chalk", "crayon", "eraser", "sharpener", "glue",
+
+  "family", "mother", "father", "brother", "sister", "grandmother", "grandfather",
+
+  "happy", "funny", "sad", "angry", "kind", "friendly", "smart", "clean", "loud", "quiet",
+
+  "run", "walk", "jump", "sit", "stand", "clap", "read", "write", "draw", "paint",
+
+  "apple", "banana", "orange", "grape", "carrot", "milk", "bread", "water", "juice", "cookie"
+]
+
