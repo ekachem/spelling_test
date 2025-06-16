@@ -17,7 +17,7 @@ export default function App() {
   const [answers, setAnswers] = useState([]);
   const [current, setCurrent] = useState(0);
   const [score, setScore] = useState(null);
-  const [timeLeft, setTimeLeft] = useState(60);
+  const [timeLeft, setTimeLeft] = useState(600);
   const [isTimeUp, setIsTimeUp] = useState(false);
 
   // Load words initially
@@ -58,7 +58,7 @@ export default function App() {
         setCurrent(0);
         setScore(null);
         setIsTimeUp(false);
-        setTimeLeft(60);
+        setTimeLeft(600);
       });
   };
 
